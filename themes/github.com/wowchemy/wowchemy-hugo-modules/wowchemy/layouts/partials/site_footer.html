@@ -1,0 +1,54 @@
+<footer class="site-footer">
+  {{ if or (site.GetPage "") (site.GetPage "privacy.md") }}
+  <p class="powered-by">
+    
+  </p>
+  {{ end }}
+
+  <p class="powered-by">
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}}{{ end }}
+  </p>
+
+  {{/* Display copyright license. */}}
+  {{ partial "site_footer_license" . }}
+
+  <p class="powered-by">
+    {{ $is_sponsor := site.Params.i_am_a_sponsor | default false }}
+    {{ $hide_published_with_footer := site.Params.power_ups.hide_published_with | default true }}
+    {{ if not (and $is_sponsor $hide_published_with_footer) }}
+    Made with the 
+    <a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project "></i> </a>
+    <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package and <a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">wowchemy</a> —
+    by <a href="https://www.linkedin.com/in/luckermos/" target="_blank" rel="noopener">
+    Lucas Emanuel</a>, <a href="https://www.linkedin.com/in/sjlva/" target="_blank" rel="noopener">
+    Rafael Silva</a> and <a href="https://www.linkedin.com/in/william-giani/" target="_blank" rel="noopener">
+    William Giani</a>. 
+    
+     <div class="row" >
+  <div class="column">
+    <img src="/imgs/logo_capes.png" style="height:80px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_cnpq.png" style="height:80px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_fapemig.jpg"  style="height:80px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_iats_2.png"  style="height:80px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_dest.jpeg"  style="height:85px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_med.png"  style="height:80px; margin:8px">
+  </div>
+  <div class="column">
+    <img src="/imgs/logo_ufmg_cor.jpg"  style="height:90px; margin:8px">
+  </div>
+</div> <br>
+    
+    
+    {{ end }}
+  
+</footer>
