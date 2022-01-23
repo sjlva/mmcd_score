@@ -11,7 +11,7 @@
 [pt]
   languageCode = "pt"
   contentDir = "content/pt"
-  title = "Escore de mortalidade ABC$_2$-SPH"
+  title = "Escore MMCD"
   [pt.params]
     description = "Descrição do site"
   
