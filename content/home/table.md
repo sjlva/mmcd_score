@@ -47,7 +47,7 @@ feature:
 | **$M$** | $M$ale sex |   |
 || No | 0 |
 || Yes | 1 |
-||**$C$** $C$reatinine (mg/dL) upon hopistal presentation| |
+||**$C$** | $C$reatinine (mg/dL) upon hopistal presentation| |
 || $\lt$ 1.2 | 0 |
 || 1.2 - 2.0 | 1 |
 || 2.0 - 3.5 | 2 |
