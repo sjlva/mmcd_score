@@ -32,6 +32,6 @@ feature:
 #  description = "90%"
 ---
 
-<iframe width="100%" height="850" name="iframe" src="https://sjlva.github.io/mmcd_calculator_en/" frameborder="0" class = "iframe" ></iframe>
+<iframe width="100%" height="800" name="iframe" src="https://sjlva.github.io/mmcd_calculator_en/" frameborder="0" class = "iframe" ></iframe>
 
 
