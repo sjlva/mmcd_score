@@ -45,8 +45,3 @@
       name = "Contato"
       url = "#contact"
       weight = 70
-      
-    [[pt.menu.main]]
-      name = "App"
-      url = "#downloadapp"
-      weight = 80
