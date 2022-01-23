@@ -38,37 +38,22 @@ feature:
 
 <center>
 
-||Variável|Escore ABC$_2$-SPH|
+||Variável|Escore MMCD|
 |--|--|--|
-|**$A$**| $A$ge - idade ($anos$)||
-|| $\lt$ 60| 0 |
-|| 60 - 69| 1 |
-|| 70 - 79| 3 |
-|| $\geqslant$ 80| 5 |
-|**$B$**|$B$lood urea nitrogen - nitrogênio da ureia no sangue ($mg/dL$)* | |
-|| $\lt$ 42| 0 |
-|| $\geqslant$ 42| 3 |
-||Ou ureia (mg/dL)*||
-|| $\lt$ 90| 0 |
-|| $\geqslant$ 90| 3 |
-|**$C_2$**|$C$omorbidades (hipertensão, diabetes mellitus, obesidade, doença coronariana, insuficiência cardíaca, fibrilação ou flutter atrial, cirrose, câncer, DPOC e acidente vascular encefálico prévio)| |
-|| 0 - 1| 0 |
-|| $\geqslant$ 2| 1 |
-||**$C$** - proteína $C$ reativa ($mg/L$)| |
-|| $\lt$ 100| 0 |
-|| $\geqslant$ 100| 1 |
-|**$S$**|$S$pO$_2$/FiO$_2$   (%)|
-||$\gt$ 315|0|
-||235.1 - 315.0|1|
-||150.1 - 235 |3|
-||$\leqslant$ 150|6|
-|**$P$**|$P$laquetas ($x10^9/L$)||
-||$\gt$ 150|0|
-||100 - 150|1|
-||$\lt$ 100|2|
-|**$H$**|$H$earth rate - frequência cardiáca ($bpm$)||
-||$\leqslant$ 90|0|
-||91 - 30|1|
-||$\geqslant$ 131|2|
+|**$M$**| $M$echanical ventilation anytime during hospital stay$^a$ - Ventilação mecânica em qualquer momento da internação*||
+|| Não | 0 |
+|| Sim | 11 |
+| **$M$** | $M$ale sex - Sexo Masculino |   |
+|| Não | 0 |
+|| Sim | 1 |
+| **$C$** | $C$reatinine (mg/dL) upon hopistal presentation - Creatinina (mg/dL) à admissão |   |
+|| $\lt$ 1.2 | 0 |
+|| 1.2 - 2.0 | 1 |
+|| 2.0 - 3.5 | 2 |
+|| 3.5 - 5.0 | 4 |
+|| $\geqslant$ 5.0| 10 |
+| **$D$** | $D$iabetes mellitus |
+|| No |0|
+|| Yes |1|
 
 </center>

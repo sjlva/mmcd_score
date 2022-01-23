@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "ABC$_2$-SPH, calculadora de risco de mortalidade por COVID-19"
+title = "Escore MMCD para predição de risco de necessidade de Terapia Renal Substitutiva (TRS) na Covid-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""
@@ -51,6 +51,5 @@ hero_media = ""
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Estima a mortalidade intra-hospitalar em pacientes admitidos por COVID-19.
-
+Prediz a necessidade de TRS intra-hospitalar em pacientes admitidos com COVID-19.
 
