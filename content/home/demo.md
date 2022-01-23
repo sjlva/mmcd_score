@@ -31,27 +31,27 @@ design:
 {{% alert note %}}
 **When to use?**
 
-At admission in the emergency department, to stratify the in-hospital mortality risk of patients with COVID-19. 
+At admission in the hospital, to stratify the in-hospital KRT needed risk of COVID-19 patients. 
 {{% /alert %}}
 
 {{% alert note %}}
 **How was it developed and validated?**
 
-Based in a cohort of 5,032 patients from 36 hospitals, from 17 cities in Brazil, as well as a cohort of 474 Spanish patients, following strict methodological criteria. [$^{1,2}$](https://abc2sph.com/#publications)
+Based in a cohort of 5,212 patients from 35 hospitals, from 17 cities in Brazil,following strict methodological criteria.
 {{% /alert %}}
 
 {{% alert note %}}
  **Why to use?**
 
    + It is easily calculated at bedside at admission.
-   + It identifies four categories at increasing risk of death with a high level of accuracy, which outperformed other existing scores.
-  + It may help healthcare practitioners to better identify patients with higher risk of mortality, to inform early interventions and the need of repetitive assessments to reduce the risk of death.
+   + It identifies three categories at increasing risk of KRT requirement with a high level of accuracy.
+   + It may help healthcare practitioners to better identify patients with higher risk of KRT requirement and it may help to organize resource allocation to patients who are at the highest risk of KRT requirement.
 {{% /alert %}}
 
 {{% alert note %}}
  **How it should be used?**
 
-Only inhospital patients, through the use of variables easily accessible at admission.
+Only in-hospital patients, through the use of variables easily accessible at admission.
 
 {{% /alert %}}
 
@@ -60,7 +60,7 @@ Only inhospital patients, through the use of variables easily accessible at admi
 **How it should not be used?**
 
   + It should not be considered a medical device.
-  + It must not be interpreted as patients from low risk group may be discharged for home treatment.
+  + It should not be used with pregnant or pediatric patients.
   + It was validated in a cohort of Brazilian patients, and it should not be adopted for routine clinical use in other settings until it has been appropriately externally validated in those settings.
     
 {{% /alert %}}

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "ABC$_2$-SPH Mortality Score for COVID-19"
+title = "MMCD score to predict risk of KRT needed in COVID-19"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = ""
@@ -51,6 +51,6 @@ hero_media = ""
 #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Estimates in-hospital mortality in patients admitted for COVID-19.
+Estimates in-hospital KRT needed in patients admitted for COVID-19.
 
 
