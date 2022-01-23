@@ -17,8 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-
-
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
@@ -47,7 +45,7 @@ feature:
 | **$M$** | $M$ale sex |   |
 || No | 0 |
 || Yes | 1 |
-||**$C$** | $C$reatinine (mg/dL) upon hopistal presentation| |
+|**$C$** | $C$reatinine (mg/dL) upon hopistal presentation| |
 || $\lt$ 1.2 | 0 |
 || 1.2 - 2.0 | 1 |
 || 2.0 - 3.5 | 2 |
