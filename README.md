@@ -1,4 +1,4 @@
-# MMCD Score
+# MMCD Score [WIP]
 Estimates in-hospital KRT needed in patients admitted for COVID-19.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bf755d5d-63e6-4a0b-918d-64a1de8bbdbd/deploy-status)](https://app.netlify.com/sites/mmcdscore/deploys)
