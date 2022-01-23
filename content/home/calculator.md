@@ -17,8 +17,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 
-
-
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
 #  icon_pack = "emoji"
@@ -34,6 +32,6 @@ feature:
 #  description = "90%"
 ---
 
-<iframe width="100%" height="1085" name="iframe" src="https://sjlva.github.io/mmcd_calculator_en/" frameborder="0" class = "iframe" ></iframe>
+<iframe width="100%" height="850" name="iframe" src="https://sjlva.github.io/mmcd_calculator_en/" frameborder="0" class = "iframe" ></iframe>
 
 
