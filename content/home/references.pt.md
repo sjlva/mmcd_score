@@ -42,5 +42,5 @@ $^1$ [Moons KGM, Altman DG, Reitsma JB, et al. Transparent Reporting of a multiv
 
 $^2$ [Wolff RF, Moons KGM, Riley RD, et al. PROBAST: A Tool to Assess the Risk of Bias and Applicability of Prediction Model Studies. Annals of Internal Medicine 2019; 170(1): 51-8.](https://pubmed.ncbi.nlm.nih.gov/30596875/)
 
-$^3$ [Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. International Journal of Infectious Diseases. Volume 110, September 2021, Pages 281-308.](https://www.sciencedirect.com/science/article/pii/S1201971221006056)
+$^3$ [de Azevedo Figueiredo, F., Ramos, L. E. F., Silva, R. T., Pires, M. C., Ponce, D., de Carvalho, R. L. R., ... & Marcolino, M. S. (2022). Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients. medRxiv.](https://www.medrxiv.org/content/10.1101/2022.01.11.22268631v1)
 {{% /callout %}}
