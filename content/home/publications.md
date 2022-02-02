@@ -38,6 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Publication: Marcolino MS, Pires MC, Ramos LEF, Silva RT, Oliveira LM, et al. ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores. Int J Infect Dis. 2021;110:281-308. doi: 10.1016/j.ijid.2021.07.049. Available from: https://linkinghub.elsevier.com/retrieve/pii/S1201-9712(21)00605-6
-
+Publication: de Azevedo Figueiredo, F., Ramos, L. E. F., Silva, R. T., Pires, M. C., Ponce, D., de Carvalho, R. L. R., ... & Marcolino, M. S. (2022). Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients. medRxiv. https://www.medrxiv.org/content/10.1101/2022.01.11.22268631v1 
 {{% /callout %}}
