@@ -38,58 +38,47 @@ design:
 ---
 
 
-Milena Soriano Marcolino$^1$, Magda Carvalho Pires$^2$, Rafael Tavares Silva$^3$, Lucas Emanuel Ferreira Ramos$^3$, Luana Martins Oliveira$^4$, Daniel Taiar Marinho Oliveira Ferrara$^5$, Maira Viana Rego Souza e Silva$^6$, Rafael Lima Rodrigues de Carvalho$^6$, Luanna da Silva Monteiro$^7$,Thaís Lorenna Souza Sales$^8$, Karina Paula Medeiros Prado Martins$^6$, Israel Júnior Borges do Nascimento$^6$, Talita Fischer Oliveira$^9$, Carisi Anne Polanczyk$^{10}$, Adrián Sánchez-Montalvá$^{11}$, Adriana Falangola Benjamin Bezerra$^{12}$, Alexandre Vargas Schwarbold$^{13}$, Aline Gabrielle Souza Nunes$^{14}$, Amanda de Oliveira Maurílio$^{15}$, Ana Lara Rodrigues Monteiro de Barros$^{16}$, Ana Luiza Bahia Alves Scotton$^{17}$, Ana Paula Beck da Silva Etges$^{10}$, Ana Paula Coutinho$^{18}$, Anderson Lacerda dos Reis$^{19}$, André Pinheiro Weber$^{20}$, André Soares de Moura Costa$^{21}$, Andresa Fontoura Garbini$^{22}$, Andressa Barreto Glaeser$^{23}$, Anelise Ferreira Fontana$^{22}$, Angélica Aparecida Coelho Madureira$^{16}$, Angelinda Rezende Bhering$^{14}$, Argenil José Assis de Oliveira$^{24}$, Bárbara Lopes Farace$^{24}$, Berta Raventós$^{25}$, Bruna Thais Schaefer$^{23}$, Bruno Mateus de Castro$^{18}$, Camila Felix Fortis$^{18}$, Carla Thais Cândida Alves da Silva$^{26}$, Carolina Marques Ramos$^{27}$, Caroline Danubia Gomes$^{19}$, Cássia Regina Gotler Medeiros$^{20}$, Christiane Corrêa Rodrigues Cimini$^{28}$, Cíntia Alcantara de Carvalho$^{29}$, Claudete Rempel$^{20}$, Claudiamara Borsatto$^{30}$, Daniel Vitório Silveira$^{14}$, Daniela Antunes de Lima$^{31}$, Daniela Ponce$^{32}$, Diego Henrique de Vasconcelos$^{33}$, Edilson Cezar$^{34}$, Elayne Crestani Pereira$^{35}$, Eliane Würdig Roesch$^{18}$, Emanuel Victor Alves Costa$^{36}$, Emanuele Marianne Souza Kroger$^{27}$, Euler Roberto Fernandes Manenti$^{19}$, Felipe Barbosa Vallt$^{26}$, Fernanda Barbosa Lucas$^{26}$, Fernanda d'Athayde Rodrigues$^{18}$, Fernanda Doumith Madureira$^{37}$, Fernando Anschau$^{22}$, Fernando Antonio Botoni$^{27}$, Fernando Graça Aranha$^{35}$, Filipe Carrilho de Aguiar$^{12}$, Francine Bernardo Vieira Pedroso$^{34}$, Frederico Bartolazzi$^{26}$, Gabriela Petry Crestani$^{19}$, Giovanna Grunewald Vietta$^{35}$, Gisele Alsina Nader Bastos$^{23}$, Glícia Cristina de Castro Madeira$^{16}$, Guilherme Fagundes Nascimento$^{14}$, Helena Carolina Noal$^{13}$, Helena Duani$^{33}$, Hellen Katya Wiebbelling$^{30}$, Heloisa Reniers Vianna$^{38}$, Henrique Cerqueira Guimarães$^{24}$, Isabela Moraes Gomes$^{16}$, Israel Molina$^{39}$, Izabel Cristina Sad das Chagas$^{37}$, Jamille Hemétrio Salles Martins Costa$^{31}$, Jéssica Rayane Corrêa Silva da Fonseca$^{40}$, Jessica Restello$^{30}$, Joanna d'Arc Lyra Batista$^{30}$, Joice Coutinho de Alvarenga$^{29}$, José Miguel Chatkin$^{41}$, Júlia Di Sabatino Santos Guimarães$^{27}$, Júlia Drumond Parreiras de Morais$^{38}$, Juliana da Silva Nogueira$^{12}$, Juliana Machado Rugolo$^{32}$, Juliana Tereza Coneglian de Almeida$^{32}$, Kaique Amancio Alvim Gouvea$^{40}$, Karen Brazil Ruschel$^{34}$, Karen Cristina Jung Rech Pontes$^{30}$, Kauane Aline Maciel dos Santos$^{18}$, Lara de Barros Wanderley Gomes$^{40}$, Lara Monalyza Gonçalves Franco$^{42}$, Leila Beltrami Moreira$^{18}$, Leonardo Hansen$^{30}$, Leonardo Seixas de Oliveira$^28$, Lílian Santos Pinheiro$^28$, Liliane Souto Pacheco$^{13}$, Luana Fonseca de Almeida$^{24}$, Lucas de Deus Sousa$^{17}$, Luciana Siuves Ferreira Couto$^{21}$, Luciane Kopittke$^{22}$, Luciano de Souza Viana$^{31}$, Luís César de Castro$^{20}$, Luis Cesar Souto de Moura$^{43}$, Luís Eduardo Stefani Brusamarello$^{41}$, Luis Joeci Jacques de Macedo Junior$^{22}$, Luisa Argolo Assis$^{27}$, Luisa Elem Almeida Santos$^{17}$, Luiz Antonio Nasi$^{23}$, Máderson Alvares de Souza Cabral$^{33}$, Magda Cesar Raposo$^{24}$, Maiara Anschau Floriani$^{23}$, Maíra Dias Souza$^{9}$, Majlla Magalhães Silva$^{31}$, Marcela Gonçalves Trindade Tofani$^{40}$, Marcelo Carneiro$^{44}$, Marconi Franco da Silveira$^{31}$, Marcus Vinicius Melo de Andrade$^{33}$, Maria Angélica Pires Ferreira$^{18}$, Maria Aparecida Camargos Bicalho$^{45}$, Maria Auxiliadora Parreiras Martins$^{21}$, Maria Clara Pontello Barbosa Lima$^{21}$, Mariana Balbinot Borges$^{34}$
-Mariana de Braga Lima Carvalho Canesso$^{45}$, Mariana Frizzo de Godoy$^{41}$, Marilia Mastrocolla de Almeida Cardoso$^{32}$, Matheus Carvalho Alves Nogueira$^{21}$, Matheus Fernandes Lopes Martins$^{31}$, Meire Pereira de Figueiredo$^{26}$, Milton Henriques Guimarães Júnior$^{31}$, Mônica Aparecida de Paula de Sordi$^{32}$, Mychelle Stefany Santos Almeida$^{8}$, Natália da Cunha Severino Sampaio$^{36}$, Natália Lima Rangel$^{31}$, Natália Trifiletti Crespo$^{31}$, Neimy Ramos de Oliveira$^{36}$, Nicole de Moraes Pertile$^{23}$, Patricia Klarmann Ziegelmann$^{46}$, Pedro Guido Soares Andrade$^{40}$, Pedro Ledic Assaf$^{16}$, Petrônio José de Lima Martelli$^{12}$, Rafael Armando Seewald$^{20}$, Rafaela dos Santos Charão de Almeida$^{22}$, Rangner José Almeida Valença Mota$^{12}$, Raphael Castro Martins$^{43}$, Raquel Lutkmeier$^{22}$, Raulério Goulart Papini$^{30}$, Reginaldo Aparecido Valacio$^9$, Renan Goulart Finger$^{30}$, Ricardo Bertoglio Cardoso$^{10}$, Ricardo Braga Coelho$^{14}$, Roberta Pozza$^{43}$, Roberta Xavier Campos$^{27}$, Rochele Mosmann Menezes$^{44}$, Rodolfo Lucas Silva Mourato$^{15}$, Rodrigo Costa Pereira Vieira$^{42}$, Roger Mendes de Abreu$^{16}$, Rufino de Freitas Silva$^{15}$, Saionara Cristina Francisco$^{16}$, Silvana Mangeon Mereilles Guimarães$^{40}$, Silvia Ferreira Araújo$^{40}$, Sofia Jarjour Tavares Starling Lopes$^{27}$, Susany Anastácia Pereira$^{16}$, Taíse Maria Clemente de Araújo$^{12}$, Talita Regina Fiorio$^{43}$, Tatiana de Vargas$^{34}$, Tatiana Kurtz$^{44}$, Tatiani Oliveira Fereguetti$^{36}$, Thainara Conceição de Oliveira$^{34}$, Thaíza Simônia Marinho Albino de Araújo$^{16}$, Thalita Martins Lage$^{31}$, Thulio Henrique Oliveira Diniz$^{15}$, Umbelina Cravo Teixeira Lagioia$^{12}$, Veridiana Baldon dos Santos$^{22}$, Victor Eliel Bastos de Carvalho$^{27}$, Vinícius Andrade Almeida$^{12}$, Virginia Mara Reis Gomes$^{36}$, Vitor Augusto Lima do Vale$^{24}$, William Rutzen$^{44}$, Yuri Carlotto Ramires$^{20}$, Zilma Silveira Nogueira Reis$^{8}$  
-
-      
+Flávio de Azevedo Figueiredo$^{1,2}$, Lucas Emanuel Ferreira Ramos$^3$, Rafael Tavares Silva$^3$, Magda Carvalho Pires$^3$, Daniela Ponce$^{4}$, Rafael Lima Rodrigues de Carvalho$^{24}$, Alexandre Vargas Schwarzbold$^5$, Amanda de Oliveira Maurílio$^6$, Ana Luiza Bahia Alves Scotton$^7$, Andresa Fontoura Garbini$^8$, Bárbara Lopes Farace$^9$, Bárbara Machado Garcia$^{10}$, Carla Thais Cândida Alves da Silva$^{11}$, Christiane Corrêa Rodrigues Cimini$^{12,13}$, Cíntia Alcantara de Carvalho$^{14}$, Cristiane dos Santos Dias$^{15}$, Daniel Vitorio Silveira$^{16}$, Euler Roberto Fernandes Manenti$^{17}$, Evelin Paola de Almeida Cenci$^{18}$, Fernando Anschau$^{18}$, Fernando Graça Aranha$^{19}$, Filipe Carrilho de Aguiar$^{20}$, Frederico Bartolazzi$^{11}$, Giovanna Grunewald Vietta$^{19}$ MD, Guilherme Fagundes Nascimento$^{16}$, Helena Carolina Noal$^{5}$, Helena Duani$^{21}$, Heloisa Reniers Vianna$^{22}$, Henrique Cerqueira Guimarães$^{9}$, Joice Coutinho de Alvarenga$^{14}$, José Miguel Chatkin$^{23}$, Júlia Parreiras Drumond de Moraes$^{22}$,
+Juliana Machado Rugolo$^{4}$, Karen Brasil Ruschel$^{17,24}$, Karina Paula Medeiros Prado Martins$^{21, 24}$, Luanna Silva Monteiro Menezes$^{25,26}$,
+Luciana Siuves Ferreira Couto$^{25}$, Luís César de Castro$^{28}$, Luiz Antônio Nasi$^{27}$, Máderson Alvares de Souza Cabral$^{21}$, Maiara Anschau Floriani$^{27}$, Maíra Dias Souza$^{26}$, Maira Viana Rego Souza e Silva$^{1}$, Marcelo Carneiro$^{29}$, Mariana Frizzo de Godoy$^{23}$, Maria Aparecida Camargos Bicalho$^{10}$, Maria Clara Pontello Barbosa Lima$^{30}$ , Matheus Carvalho Alves Nogueira$^{31}$, Matheus Fernandes Lopes Martins$^{32}$, Milton Henriques Guimarães Júnior$^{32}$, Natália da Cunha Severino Sampaio$^{33}$, Neimy Ramos de Oliveira$^{33}$, Patricia Klarmann Ziegelmann$^{24,34}$, Pedro Guido Soares Andrade$^{35}$, Pedro Ledic Assaf$^{36}$, Petrônio José de Lima Martelli$^{20}$, Polianna Delfino Pereira$^{1,14}$, Raphael Castro Martins$^{34}$, Rochele Mosmann Menezes$^{29}$, Saionara Cristina Francisco$^{36}$, Silvia Ferreira Araújo$^{35}$, Talita Fischer Oliveira$^{26}$, Thainara Conceição de Oliveira$^{18}$, Thaís Lorenna Souza Sales$^{24,37}$, Yuri Carlotto Ramires$^{28}$, Milena Soriano Marcolino$^{1,21,24,38}$      
       
 ***
 
-$^1$Principal investigator. Medical School, Telehealth Center and University Hospital, Universidade Federal de Minas Gerais; Instituto de Avaliação de Tecnologia em Saúde (IATS), Belo Horizonte, Brazil  
-$^2$Statistical coordinator. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil  
-$^3$Statistical team. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil  
-$^4$Field coordinator. Universidade Federal de Minas Gerais, Belo Horizonte, Brazil  
-$^5$UX designer. Universidade FUMEC, Belo Horizonte, Brazil  
-$^6$Medical School, University Hospital, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil  
-$^7$Hospital Metropolitano Odilon Behrens, Hospital Luxemburgo, Medical School, Universidade Federal de Minas Gerais, Belo Horizonte, Brazil  
-$^8$Universidade Federal de São João del-Rei, São João del-Rei, Brazil  
-$^9$Hospital Metropolitano Odilon Behrens, Belo Horizonte, Brazil  
-$^{10}$Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil  
-$^{11}$Vall d'Hebron University Hospital, Vall d'Hebron Institute of Research   (VHIR), Barcelona, Spain
-$^{12}$University Hospital, Universidade Federal de Pernambuco, Recife, Brazil  
-$^{13}$Hospital Universitário de Santa Maria, Santa Maria, Brazil  
-$^{14}$Hospital UNIMED, Belo Horizonte, Brazil  
-$^{15}$Hospital São João de Deus, Divinópolis, Brazil  
-$^{16}$Hospital Metropolitano Doutor Célio de Castro, Belo Horizonte, Brazil  
-$^{17}$Hospital Regional Antônio Dias, Patos de Minas, Brazil  
-$^{18}$Hospital de Clínicas de Porto Alegre, Porto Alegre, Brazil  
-$^{19}$Hospital Mãe de Deus, Porto Alegre, Brazil  
-$^{20}$Hospital Bruno Born, Lajeado, Brazil  
-$^{21}$Hospitais da Rede Mater Dei, Belo Horizonte, Brazil  
-$^{22}$Hospital Nossa Senhora da Conceição, Hospital Cristo Redentor, Porto Alegre, Brazil  
-$^{23}$Hospital Moinhos de Vento, Porto Alegre, Brazil  
-$^{24}$Hospital Risoleta Tolentino Neves, Belo Horizonte, Brazil  
-$^{25}$Infectious Diseases Department, Vall d’Hebron University Hospital, Universitat Autònoma de Barcelona, Barcelona, Spain  
-$^{26}$Hospital de Santo Antônio, Curvelo, Brazil  
-$^{27}$Hospital Julia Kubitschek, Belo Horizonte, Brazil  
-$^{28}$Hospital Santa Rosália, Teófilo Otoni, Brazil  
-$^{29}$Hospital João XXIII, Belo Horizonte, Brazil  
-$^{30}$Hospital Regional do Oeste, Chapecó, Brazil  
-$^{31}$Hospital Márcio Cunha, Ipatinga, Brazil  
-$^{32}$University Hospital, Faculdade de Medicina de Botucatu, Botucatu, Brazil  
-$^{33}$University Hospital, Universidade Federal de Minas Gerais, Belo Horizonte,   Brazil
-$^{34}$Hospital Universitário Canoas, Canoas, Brazil  
-$^{35}$Hospital SOS Cárdio, Florianópolis, Brazil  
-$^{36}$Hospital Eduardo de Menezes, Belo Horizonte, Brazil  
-$^{37}$Hospital Regional de Barbacena Dr. José Américo, Barbacena, Brazil  
-$^{38}$Hospital Universitário Ciências Médicas, Belo Horizonte, Brazil  
-$^{39}$Fundação Oswaldo Cruz (FIOCRUZ), Rio de Janeiro, Brazil  
-$^{40}$Hospital Semper, Belo Horizonte, Brazil  
-$^{41}$Hospital São Lucas da PUCRS, Porto Alegre, Brazil  
-$^{42}$Hospital Luxemburgo, Instituto Mario Pena, Belo Horizonte, Brazil  
-$^{43}$Hospital Tacchini, Bento Gonçalves, Brazil  
-$^{44}$Hospital Santa Cruz, Santa Cruz do Sul, Brazil  
-$^{45}$Fundação Hospitalar do Estado de Minas Gerais (FHEMIG), Belo Horizonte, Brazil  
-$^{46}$Hospital Tacchini, Instituto de Avaliação de Tecnologia em Saúde (IATS), Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil  
-
-
+$^1$Department of Internal Medicine, Medical School, Universidade Federal de Minas Gerais. Av. Professor Alfredo Balena, 190, Belo Horizonte, Brazil. 
+$^{2}$Department of Medicine, Universidade Federal de Lavras. Aquenta Sol, Lavras, Brazil. 
+$^{3}$Department of Statistics, Universidade Federal de Minas Gerais. Av. Presidente Antônio Carlos, 6627, Belo Horizonte, Brazil.
+$^{4}$Botucatu Medical School, Universidade Estadual Paulista "Júlio de Mesquita Filho". Av. Prof. Mário Rubens Guimarães Montenegro, Botucatu, Brazil.
+$^{5}$Hospital Universitário de Santa Maria. Av. Roraima, 1000, Santa Maria, Brazil.
+$^{6}$Hospital São João de Deus. R. do Cobre, 800, Divinópolis, Brazil.
+$^{7}$Hospital Regional Antônio Dias. R. Maj. Gote, 1231, Patos de Minas, Brazil.
+$^{8}$Hospital Nossa Senhora da Conceição and Hospital Cristo Redentor. Av. Francisco Trein, 326, Porto Alegre, Brazil.
+$^{9}$Hospital Risoleta Tolentino Neves. R. das Gabirobas, 01, Belo Horizonte, Brazil.
+$^{10}$0Hospital Júlia Kubitschek. Av. Professor Alfredo Balena, 190, Belo Horizonte, Brazil.
+$^{11}$1Hospital Santo Antônio. Praça Dr. Márcio Carvalho Lopes Filho, 501, Curvelo, Brazil.
+$^{12}$Hospital Santa Rosália. R. do Cruzeiro, 01, Teófilo Otoni, Brazil.
+$^{13}$Mucuri Medical School, Universidade Federal dos Vales do Jequitinhonha e Mucuri. R. Cruzeiro, 01, Teófilo Otoni, Brazil.
+$^{14}$Hospital João XXIII. Av. Professor Alfredo Balena, 400, Belo Horizonte, Brazil.
+$^{15}$Department of Pediatrics, Medical School, Universidade Federal de Minas Gerais. Av. Professor Alfredo Balena, 190, Belo Horizonte, Brazil.
+$^{16}$Hospital UNIMED BH. Av. do Contorno, 3097, Belo Horizonte, Brazil.
+$^{17}$Hospital Mãe de Deus. R. José de Alencar, 286, Porto Alegre, Brazil.
+$^{18}$Hospital Universitário Canoas. Av. Farroupilha, 8001, Canoas, Brazil.
+$^{19}$Hospital SOS Cárdio. Rodovia, SC-401, 121, Florianópolis, Brazil.
+$^{20}$Hospital das Clínicas da Universidade Federal de Pernambuco. Av. Prof. Moraes Rego, 1235, Recife, Brazil.
+$^{21}$Medical School and University Hospital, Universidade Federal de Minas Gerais. Avenida Professor Alfredo Balena, 190, Belo Horizonte, Brazil.
+$^{22}$Hospital Universitário Ciências Médicas. R. dos Aimorés, 2896, Belo Horizonte, Brazil.
+$^{23}$Hospital São Lucas da PUCRS. Av. Ipiranga, 6690, Porto Alegre, Brazil.
+$^{24}$Institute for Health Technology Assessment (IATS/ CNPq). R. Ramiro Barcelos, 2359, Porto Alegre, Brazil.
+$^{25}$Hospital Luxemburgo. R. Gentios, 1350, Belo Horizonte, Brazil.
+$^{26}$Hospital Metropolitano Odilon Behrens. R. Formiga, 50, Belo Horizonte, Brazil.
+$^{27}$Hospital Moinhos de Vento. R. Ramiro Barcelos, 910, Porto Alegre, Brazil.
+$^{28}$Hospital Bruno Born. Av. Benjamin Constant, 881, Lajeado, Brazil.
+$^{29}$Hospital Santa Cruz. R. Fernando Abott, 174, Santa Cruz do Sul, Brazil.
+$^{30}$Medical School, Universidade Federal de Ouro Preto. R. Diogo de Vasconcelos, 122, Ouro Preto, Brazil.
+$^{31}$Hospitais da Rede Mater Dei. Av. do Contorno, 9000, Belo Horizonte, Brazil.
+$^{32}$Hospital Márcio Cunha. Av. Kiyoshi Tsunawaki, 48, Ipatinga, Brazil.
+$^{33}$Hospital Eduardo de Menezes. R. Dr. Cristiano Rezende, 2213, Belo Horizonte, Brazil.
+$^{34}$Hospital Tacchini. R. Dr. José Mário Mônaco, 358, Bento Gonçalves, Brazil.
+$^{35}$Hospital Semper. Alameda Ezequiel Dias, 389, Belo Horizonte, Brazil.
+$^{36}$Hospital Metropolitano Doutor Célio de Castro. R. Dona Luiza, 311, Belo Horizonte, Brazil.
+$^{37}$Universidade Federal de São João del-Rei. R. Sebastião Gonçalves Coelho, 400, Divinópolis, Brazil.
+$^{38}$Telehealth Center, University Hospital, Universidade Federal de Minas Gerais. Av. Professor Alfredo Balena, 110, Belo Horizonte, Brazil.
