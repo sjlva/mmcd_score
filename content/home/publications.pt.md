@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Publicação: de Azevedo Figueiredo, F., Ramos, L. E. F., Silva, R. T., Pires, M. C., Ponce, D., de Carvalho, R. L. R., ... & Marcolino, M. S. (2022). Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients. medRxiv. https://www.medrxiv.org/content/10.1101/2022.01.11.22268631v1 
+Publicação: Figueiredo, F.d., Ramos, L.E.F., Silva, R.T. et al. Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients. BMC Med 20, 324 (2022). https://doi.org/10.1186/s12916-022-02503-0
 {{% /callout %}}
